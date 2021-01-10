@@ -1,0 +1,13 @@
+{
+	"name": "LEGO rebrikable",
+	"properties": {
+		"description": "https://cdn.rebrickable.com/media/downloads/themes.csv.gz?1610269680.2352428",
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "cdn.rebrickable.com/media/downloads/",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
